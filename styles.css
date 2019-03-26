@@ -5,3 +5,8 @@
   text-align:center;
   text-decoration:none;
 }
+
+  .menu:visited {
+  color: green;
+}
+
